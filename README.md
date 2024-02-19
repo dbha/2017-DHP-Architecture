@@ -3,5 +3,5 @@
 #### 2017년 당시 VM 혹은 BM 방식이 아닌 유일하게 Container 방식으로 데이터 처리 분석 엔진을 제공했던 솔루션으로 사용된 기술은 다음과 같습니다.  
     - Container Orchestrator : Rancher Cattle   
     - Bigdata Platform : HDP2.6
-    - 제공 ECO System : Hadoop, Kafka, Oozie, Hive, Flume, logstash Jupyter NB
+    - 제공 ECO System : Hadoop, Kafka, Oozie, Hive, Flume, logstash, Jupyter NB
     - Service Discovery : Confd
